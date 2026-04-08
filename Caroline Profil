@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Caroline Cahérec — Chief Marketing & Innovation</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      margin: 0;
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.6;
+      color: #111;
+      background: #fff;
+    }
+    h1 { font-size: 32px; margin-bottom: 5px; }
+    h2 { margin-top: 40px; font-size: 20px; }
+    p { margin: 10px 0; }
+    .subtitle { color: #555; margin-bottom: 30px; }
+    .section { margin-top: 40px; }
+    .signature {
+      margin-top: 60px;
+      font-style: italic;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Caroline Cahérec</h1>
+<p class="subtitle">
+Chief Marketing & Innovation — Builder of brands, experiences & transformation models
+</p>
+
+<p>
+I operate where marketing, branding and innovation reshape business.
+</p>
+
+<p>
+I build systems — not just campaigns.<br>
+I structure value — not just visibility.<br>
+I align strategy, execution and desirability.
+</p>
+
+<div class="section">
+<h2>Positioning</h2>
+<p>
+Marketing and innovation leader with a hybrid background across corporate, entrepreneurial and innovation environments.
+</p>
+<p>
+My work focuses on designing high-value marketing systems combining editorial intelligence, data and early AI adoption.
+</p>
+</div>
+
+<div class="section">
+<h2>Experience</h2>
+
+<p><strong>RATP Dev (2020–2025)</strong><br>
+Led international communication and editorial initiatives.<br>
++300% engagement — +10% recruitment — scalable models deployed.
+</p>
+
+<p><strong>DRS — Marketing & AI Innovation (2011–2020)</strong><br>
+Designed AI-driven marketing and experience systems.<br>
+Early contributor to AI in creative industries.
+</p>
+
+<p><strong>Maison Lilith (2006–2011)</strong><br>
+Brand development, product strategy and international growth.<br>
++200% category growth — €14M revenue.
+</p>
+
+<p><strong>Dragon Rouge (2000–2003)</strong><br>
+Branding, foresight and strategic marketing projects.
+</p>
+
+</div>
+
+<div class="section">
+<h2>Expertise</h2>
+<p>
+Marketing strategy — Branding — Innovation — AI — Editorial systems — Value creation
+</p>
+</div>
+
+<div class="section">
+<h2>Publication</h2>
+<p>
+GET YOUR PARISIAN STYLE (2025–2026)<br>
+Exploring marketing, creative industries and AI transformation.
+</p>
+</div>
+
+<div class="signature">
+<p>
+"I build what does not yet exist — at the intersection of structure, intuition and innovation."
+</p>
+</div>
+
+</body>
+</html>
